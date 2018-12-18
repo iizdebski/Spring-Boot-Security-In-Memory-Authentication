@@ -19,6 +19,8 @@ pass@123
 
 admin
 
+new incognito window
+
 http://localhost:8080/api/admin/tickets/alltickets
 
 localhost:8080/login
